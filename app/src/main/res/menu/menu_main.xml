@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.assignment.petamicoassignment.MainActivity">
+    <item
+        android:id="@+id/action_sort_a_z"
+        android:orderInCategory="100"
+        android:title="@string/action_sort"
+        android:icon="@drawable/ic_baseline_sort_24"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sort_z_a"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_"
+        android:icon="@drawable/ic_baseline_sort_24"
+        app:showAsAction="never" />
+</menu>

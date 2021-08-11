@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PetamicoAssignment</string>
+    <string name="action_sort">A-Z</string>
+    <string name="action_sort_">Z-A</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
